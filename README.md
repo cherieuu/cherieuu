@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=BF8ED5&height=300&section=header&text=Yoo%20Hwayoung&fontSize=90&fontColor=FFFFFF)
+#![header](https://capsule-render.vercel.app/api?type=waving&color=BF8ED5&height=300&section=header&text=Yoo%20Hwayoung&fontSize=90&fontColor=FFFFFF)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yoo%20hwayoung&fontSize=90&fontColor=FFFFFF)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcherieuu&count_bg=%236A00B8&title_bg=%23706AAC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
