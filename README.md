@@ -1,5 +1,7 @@
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yoo%20hwayoung&fontSize=90)
 <div align=center><h1> Hi, I’m Hwayoung !✨ </h1></div>
-
 
 Here are some ideas to get you started:
 
@@ -13,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yoo%20hwayoung&fontSize=90)
 
+  
 ![cherieuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherieuu&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherieuu&layout=compact&theme=radical)](https://github.com/cherieuu)
