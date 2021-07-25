@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcherieuu&count_bg=%236A00B8&title_bg=%23706AAC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <h2 align="center">📚 Tech Stack 📚</h2>
-<p align="center">
+<div align="center">
   
   <p align="center">
    
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   
-</p>
+</div>
 
