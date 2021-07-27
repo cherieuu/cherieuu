@@ -35,8 +35,7 @@
   <br>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  
-</div>
 
-<div align=center>
+
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=2A2D3D)</div>
