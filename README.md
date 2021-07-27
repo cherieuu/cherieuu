@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
   <br>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Django-%2300f.svg?-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
   
 </div>
 
