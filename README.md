@@ -12,16 +12,14 @@
  <br>
  
 <div align=center>
-  
-[![cherieuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherieuu&show_icons=true&theme=material-palenight)](https://github.com/cherieuu) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherieuu&layout=compact&theme=material-palenight)](https://github.com/cherieuu)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcherieuu%2Fhit-counter&count_bg=%23A783C9&title_bg=%232A2D3D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
+[![cherieuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherieuu&show_icons=true&theme=material-palenight)](https://github.com/cherieuu) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherieuu&layout=compact&theme=material-palenight)](https://github.com/cherieuu)
+</div>
   
 <hr>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fcherieuu&count_bg=%236A00B8&title_bg=%23706AAC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-</div>
-
+<br>
 <h2 align="center">📚 Tech Stack 📚</h2>
 <div align="center">
   
