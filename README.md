@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yoo%20hwayoung&fontSize=90)</div>
 <div align=center><h1> Hi, I’m Hwayoung !✨ </h1></div>
 
-Here are some ideas to get you started:
 
 - 🌱  I’m currently learning `Machine Learning`, `Algorithm`, `Data Analytics`, `Data Science` ... 
 - ⚡   My major is Global Business Administration.
@@ -12,6 +11,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
+  
 [![cherieuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherieuu&show_icons=true&theme=dracula)](https://github.com/cherieuu) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherieuu&layout=compact&theme=dracula)](https://github.com/cherieuu)
   
 <hr>
