@@ -19,10 +19,9 @@
 [![cherieuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherieuu&show_icons=true&theme=material-palenight)](https://github.com/cherieuu) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherieuu&layout=compact&theme=material-palenight)](https://github.com/cherieuu)
 </div>
   
-<hr>
 
 </br>
-<h2 align="center">📚 Tech Stack 📚</h2>
+<h1 align="center">📚 Tech Stack 📚</h1>
 <div align="center">
   
   <p align="center">
