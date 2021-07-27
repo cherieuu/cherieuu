@@ -8,18 +8,21 @@
 - ⚡     My major is Global Business Administration.
 - 🔍    I'm interested in `User eXperience`, `Business Analystics`
 - 🍒 ☕️  I like rainier cherries & coffee
- <br>
- <br>
+ </br>
+ </br>
  
 <div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcherieuu%2Fhit-counter&count_bg=%23A783C9&title_bg=%232A2D3D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+  
+</div>
 
+<div align=center>
 [![cherieuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherieuu&show_icons=true&theme=material-palenight)](https://github.com/cherieuu) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherieuu&layout=compact&theme=material-palenight)](https://github.com/cherieuu)
 </div>
   
 <hr>
 
-<br>
+</br>
 <h2 align="center">📚 Tech Stack 📚</h2>
 <div align="center">
   
