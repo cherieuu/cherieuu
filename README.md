@@ -38,3 +38,5 @@
   
 </div>
 
+<div align=center>
+![footer](https://capsule-render.vercel.app/api?section=footer&color=2A2D3D)</div>
