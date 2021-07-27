@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=2A2D3D&height=300&section=header&text=Yoo%20hwayoung&fontSize=90&fontColor=a783c9)</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=1F212D&height=300&section=header&text=Yoo%20hwayoung&fontSize=90&fontColor=a783c9)</div>
 <div align=center><h1> Hi, I’m Hwayoung !✨ </h1></div>
 
 
