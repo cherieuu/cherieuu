@@ -4,10 +4,10 @@
 <div align=center><h1> Hi, I’m Hwayoung !✨ </h1></div>
 
 
-- 🌱  I’m currently learning `Machine Learning`, `Algorithm`, `Data Analytics`, `Data Science` ... 
-- ⚡   My major is Global Business Administration.
-- 🔍  I'm interested in `User eXperience`, `Business Analystics`
-- 🍒 ☕️ I like rainier cherries & coffee
+- 🌱    I’m currently learning `Machine Learning`, `Algorithm`, `Data Analytics`, `Data Science` ... 
+- ⚡     My major is Global Business Administration.
+- 🔍    I'm interested in `User eXperience`, `Business Analystics`
+- 🍒 ☕️  I like rainier cherries & coffee
  <br>
  <br>
 <div align=center>
