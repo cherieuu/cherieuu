@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning `Machine Learning`, `Algorithm`, `Data Analytics`, `Data Science` ... 
-- ⚡ My major is Global Business Administration.
-- 🔍 I'm interested in `User eXperience`, `Business Analystics`
-- 🍒 ☕️I like rainier cherries & coffee
+- 🌱  I’m currently learning `Machine Learning`, `Algorithm`, `Data Analytics`, `Data Science` ... 
+- ⚡   My major is Global Business Administration.
+- 🔍  I'm interested in `User eXperience`, `Business Analystics`
+- 🍒 ☕️ I like rainier cherries & coffee
 
 <div align=center>
 
