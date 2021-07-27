@@ -8,13 +8,12 @@
 - ⚡   My major is Global Business Administration.
 - 🔍  I'm interested in `User eXperience`, `Business Analystics`
 - 🍒 ☕️ I like rainier cherries & coffee
-
+ <br>
+ <br>
 <div align=center>
 
   
 [![cherieuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherieuu&show_icons=true&theme=material-palenight)](https://github.com/cherieuu) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherieuu&layout=compact&theme=material-palenight)](https://github.com/cherieuu)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/cherieuu)
 
   
 <hr>
